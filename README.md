@@ -21,7 +21,8 @@ The project showcases a modern product listing UI for laptops, focusing on clean
 - **JavaScript (Vanilla JS)** – Minimal interactivity  
 
 ## 📺 Live Demo
-URL:
+
+URL: https://laptop-bazaar-app.vercel.app/
 
 ## 📂 Project Structure
 
